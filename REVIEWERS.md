@@ -1,23 +1,23 @@
 Assignment|Reviewer 1|Reviewer 2
 ----------|----------|----------
-Grace Cagle|Glaucia Del-Rio|Zac Carver
-Zac Carver|Yuankai Dong|Glaucia Del-Rio
-Glaucia Del-Rio|Elisa Elizondo|Yuankai Dong
-Yuankai Dong|Maryam Foroozani|Elisa Elizondo
-Elisa Elizondo|Michael Henson|Maryam Foroozani
-Maryam Foroozani|Mukesh Maharjan|Michael Henson
-Michael Henson|Andre Moncrieff|Mukesh Maharjan
-Mukesh Maharjan|Jon Nations|Andre Moncrieff
-Andre Moncrieff|Pramod Pantha|Jon Nations
-Jon Nations|Marco Rego|Pramod Pantha
-Pramod Pantha|Alicia Reigel|Marco Rego
-Marco Rego|Jessie Salter|Alicia Reigel
-Alicia Reigel|Amie Settlecowski|Jessie Salter
-Jessie Salter|Shraddha Shrestha|Amie Settlecowski
-Amie Settlecowski|AJ Turner|Shraddha Shrestha
-Shraddha Shrestha|Austen Webber|AJ Turner
-AJ Turner|Grace Cagle|Austen Webber
-Austen Webber|Zac Carver|Grace Cagle
+Grace Cagle|Glaucia Del-Rio|Yuankai Dong
+Zac Carver|Yuankai Dong|Elisa Elizondo
+Glaucia Del-Rio|Elisa Elizondo|Maryam Foroozani
+Yuankai Dong|Maryam Foroozani|Michael Henson
+Elisa Elizondo|Michael Henson|Mukesh Maharjan
+Maryam Foroozani|Mukesh Maharjan|Andre Moncrieff
+Michael Henson|Andre Moncrieff|Jon Nations
+Mukesh Maharjan|Jon Nations|Pramod Pantha
+Andre Moncrieff|Pramod Pantha|Marco Rego
+Jon Nations|Marco Rego|Alicia Reigel
+Pramod Pantha|Alicia Reigel|Jessie Salter
+Marco Rego|Jessie Salter|Amie Settlecowski
+Alicia Reigel|Amie Settlecowski|Shraddha Shrestha
+Jessie Salter|Shraddha Shrestha|AJ Turner
+Amie Settlecowski|AJ Turner|Austen Webber
+Shraddha Shrestha|Austen Webber|Grace Cagle
+AJ Turner|Grace Cagle|Zac Carver
+Austen Webber|Zac Carver|Glaucia Del-Rio
 
 # How to perform your code review
 
