@@ -22,4 +22,9 @@ def pi_ex():
     # round integer pi
     print(a)
 
-pi_ex()
+
+def main():
+    pi_ex()
+
+if __name__ == '__main__':
+    main()
